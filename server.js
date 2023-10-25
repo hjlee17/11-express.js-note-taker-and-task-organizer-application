@@ -14,7 +14,12 @@ app.use('/api', api);
 app.use(express.static('public'));
 
 // GET route for index.html page (`GET *` returns the `index.html` file)
+
 // GET route for notes page (`GET /notes` returns the `notes.html` file)
+app.get('/notes', (req, res) =>
+  res.sendFile(path.join(__dirname, 'public/notes.html'))
+);
+
 
 app.listen(PORT, () =>
   console.log(`app listening at http://localhost:${PORT}`)
