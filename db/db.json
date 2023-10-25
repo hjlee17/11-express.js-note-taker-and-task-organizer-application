@@ -1,6 +1,27 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Inventory Check",
+        "text": "Check all stock - coffee beans, baked goods, supplies. Prepare restock order to submit on Thursday.",
+        "id": "fc16ad63-c3cf-4628-b3df-b1c3bf081d8d"
+    },
+    {
+        "title": "Seasonal Menu Launch",
+        "text": "Prepare for December seasonal menu launch. Touch base with employees to review any recipes. Update store-front menu.",
+        "id": "99190260-979f-4b81-bdb5-8f11de5aa8b7"
+    },
+    {
+        "title": "Employee Training",
+        "text": "Check in with managers to plan any necessary trainings. Review customer service best practices to prepare for holiday season.",
+        "id": "122a3f37-8d01-429e-ac79-100adb306d79"
+    },
+    {
+        "title": "Hiring Holiday Employees",
+        "text": "Begin process of hiring part-time holiday employees to accommodate holiday workload. Create job postings online and at storefront. Plan to conduct interviews next week. ",
+        "id": "6b154a8c-01cb-4c23-a672-5ccedc90f508"
+    },
+    {
+        "title": "Marketing Campaign",
+        "text": "Plan to launch social media marketing campaign for holiday season, focusing on the seasonal menu. ",
+        "id": "aabb77cf-05e2-4780-b226-eb1ef596b366"
     }
 ]
