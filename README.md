@@ -28,6 +28,7 @@ If the user wants to view the details of any saved tasks, click on the task in t
 Clicking the red delete icon will delete the task.
 ![Gif of note taker application functionality for adding, navigating to, and deleting a task.](./assets/images/gif-01.gif)
 
+
 ## License
 [The MIT License](https://opensource.org/licenses/MIT/)
 
